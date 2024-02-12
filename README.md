@@ -23,5 +23,5 @@ Customer Support
 Our support team is available to assist users with any questions, technical issues, or assistance requests.
 Users can contact us via live chat, email, or phone during business hours.
 We are committed to providing an intuitive and effective platform that simplifies barbershop management and enhances the experience for both barbers and customers. Stay tuned for the launch of HairHub soon and join us on this journey of digital transformation in the world of barbershops!
-#Tecnologias:
+# Tecnologias:
 HTML,CSS,PHP,JAVASCRIPT E MYSQL.
